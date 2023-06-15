@@ -21,9 +21,9 @@ This is a solution to the [QR code component challenge on Frontend Mentor](https
 - Live Site URL: (https://your-live-site-url.com)
 
 ## My process
-  1.Firstly I made the complete HTML structure.
-  2.Then I added the CSS in the <style> tag.
-  3.At last I set the font-size,colors,etc. as provided for the project.
+  1. Firstly I made the complete HTML structure.
+  2. Then I added the CSS in the <style> tag.
+  3. At last I set the font-size,colors,etc. as provided for the project.
 
 ### Built with
 - Semantic HTML5 markup
